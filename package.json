@@ -1,0 +1,17 @@
+{
+  "name": "mock-api-server",
+  "version": "1.0.0",
+  "description": "Mock API Server built with json-server and expressjs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  }
+}
